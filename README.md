@@ -14,7 +14,7 @@ Por isso, antes de instalar, faça backup dos arquivos originais.
 
 - GitHub: <https://github.com/isyuricunha/the-elder-scrolls-iii-morrowind-game-of-the-year-edition-traducao-completa-portugues-brasileiro>
 - Releases: <https://github.com/isyuricunha/the-elder-scrolls-iii-morrowind-game-of-the-year-edition-traducao-completa-portugues-brasileiro/releases/latest>
-- Nexus Mods: em breve
+- Nexus Mods: <https://www.nexusmods.com/morrowind/mods/59287>
 - Comunidade do Discord: <https://discord.com/invite/aYbWBr4>
 
 Se você gostou desta tradução e quer apoiar o trabalho, considere fazer uma doação via PIX para: <pix@yuricunha.com>
