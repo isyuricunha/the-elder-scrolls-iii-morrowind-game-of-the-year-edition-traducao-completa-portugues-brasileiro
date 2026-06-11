@@ -54,8 +54,9 @@ Na Steam, você também pode clicar com o botão direito no jogo, abrir **Gerenc
 
 ### Passo 1: baixar os arquivos
 
-1. Abra a página de releases:
-   <https://github.com/isyuricunha/the-elder-scrolls-iii-morrowind-game-of-the-year-edition-traducao-completa-portugues-brasileiro/releases/latest>
+1. Abra a página de downloads ou releases:
+   NexusMod: <https://www.nexusmods.com/morrowind/mods/59287?tab=files>
+   GitHub: <https://github.com/isyuricunha/the-elder-scrolls-iii-morrowind-game-of-the-year-edition-traducao-completa-portugues-brasileiro/releases/latest>
 2. Baixe o arquivo `traducao.zip` ou `traducao.7z`.
 3. Salve o arquivo em um lugar fácil de encontrar, como `Downloads` ou `Desktop`.
 
