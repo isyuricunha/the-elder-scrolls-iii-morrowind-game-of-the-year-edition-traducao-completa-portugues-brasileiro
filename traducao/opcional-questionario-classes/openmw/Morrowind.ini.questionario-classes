@@ -1,0 +1,69 @@
+[Question 1]
+Question=Em um dia claro, você encontra um animal estranho com uma das patas presa em uma armadilha de caçador. Pelo sangramento, ele não sobreviverá por muito tempo.
+AnswerOne=Sacar sua adaga e, por misericórdia, acabar com a vida dele com um único golpe?
+AnswerTwo=Usar ervas da sua mochila para fazê-lo dormir?
+AnswerThree=Não interferir no curso natural dos acontecimentos, mas aproveitar a oportunidade para aprender mais sobre um animal estranho que você nunca viu antes?
+Sound=Vo\Misc\CharGen QA1.wav
+
+[Question 2]
+Question=Em uma tarde de verão, seu pai lhe dá uma escolha de tarefas.
+AnswerOne=Trabalhar com ele na forja, moldando ferro para um arado novo?
+AnswerTwo=Colher ervas para sua mãe, que está preparando o jantar?
+AnswerThree=Ir pescar no riacho usando uma rede e uma linha?
+Sound=Vo\Misc\CharGen QA2.wav
+
+[Question 3]
+Question=Seu primo lhe deu um apelido muito constrangedor e, pior ainda, gosta de chamá-lo assim na frente de seus amigos. Você já pediu que ele parasse, mas ele acha muito divertido ver você corar.
+AnswerOne=Dar uma surra no seu primo e avisar que, se ele usar o apelido de novo, você o deixará ainda mais ensanguentado?
+AnswerTwo=Inventar uma história que transforme seu apelido em motivo de orgulho, em vez de algo humilhante?
+AnswerThree=Inventar um apelido ainda mais constrangedor para ele e usá-lo sem parar até que aprenda a lição?
+Sound=Vo\Misc\CharGen QA3.wav
+
+[Question 4]
+Question=Há uma discussão acalorada na taverna local sobre um grupo de pessoas chamado 'Telepatas'. Eles foram contratados por certos reis das Cidades-Estado. Dizem que esses Telepatas leem a mente de uma pessoa e informam ao seu senhor se um seguidor está dizendo a verdade ou não.
+AnswerOne=Essa é uma prática terrível. Os pensamentos de uma pessoa pertencem somente a ela, e ninguém, nem mesmo um rei, tem o direito de invadir a mente de outro ser humano.
+AnswerTwo=Seguidores leais ao rei não têm nada a temer de um Telepata. É importante ter um método para descobrir assassinos e espiões antes que seja tarde demais.
+AnswerThree=Nestes tempos, é um mal necessário. Embora você não goste da ideia, um Telepata pode trazer certas vantagens durante uma guerra ou ao provar a inocência de alguém acusado de um crime.
+Sound=Vo\Misc\CharGen QA4.wav
+
+[Question 5]
+Question=Sua mãe envia você ao mercado com uma lista de mercadorias para comprar. Depois de terminar, você percebe que, por engano, um comerciante lhe devolveu dinheiro demais no troco de um dos itens.
+AnswerOne=Voltar à loja e devolver ao comerciante o dinheiro que ele ganhou com esforço, explicando o engano?
+AnswerTwo=Decidir usar bem o dinheiro extra e comprar coisas que ajudariam sua família?
+AnswerThree=Guardar o dinheiro extra, sabendo que comerciantes em geral costumam cobrar caro demais dos clientes?
+Sound=Vo\Misc\CharGen QA5.wav
+
+[Question 6]
+Question=Enquanto está no mercado, você vê um ladrão cortar a bolsa de um nobre. O nobre percebe e chama os guardas da cidade. Na pressa para escapar, o ladrão deixa cair a bolsa perto de você. Surpreendentemente, ninguém parece notar o saco de moedas aos seus pés.
+AnswerOne=Pegar a bolsa e chamar o guarda, sabendo que a única atitude honrada é devolver o dinheiro ao legítimo dono?
+AnswerTwo=Deixar a bolsa onde está, sabendo que é melhor não se envolver?
+AnswerThree=Pegar a bolsa e guardá-la, sabendo que esse dinheiro inesperado ajudará sua família em tempos difíceis?
+Sound=Vo\Misc\CharGen QA6.wav
+
+[Question 7]
+Question=Seu pai manda você fazer uma tarefa que detesta: limpar os estábulos. No caminho, com um forcado na mão, você encontra um amigo da propriedade vizinha. Ele se oferece para fazer o serviço em troca de um favor futuro à escolha dele.
+AnswerOne=Recusar a oferta, sabendo que seu pai espera que você faça o trabalho e que é melhor não ficar devendo favores?
+AnswerTwo=Pedir que ele ajude, sabendo que duas pessoas terminam mais rápido do que uma, e concordar em ajudá-lo em uma tarefa à escolha dele no futuro?
+AnswerThree=Aceitar a oferta, pensando que, desde que os estábulos sejam limpos, não importa quem faça o trabalho?
+Sound=Vo\Misc\CharGen QA7.wav
+
+[Question 8]
+Question=Sua mãe pede que você ajude a consertar o fogão. Enquanto trabalham, um cano muito quente se solta e cai na direção dela.
+AnswerOne=Posicionar-se entre o cano e sua mãe?
+AnswerTwo=Agarrar o cano quente e tentar desviá-lo?
+AnswerThree=Empurrar sua mãe para fora do caminho?
+Sound=Vo\Misc\CharGen QA8.wav
+
+[Question 9]
+Question=Na cidade, o padeiro lhe dá um rolinho doce. Encantado, você o leva para um beco para comer, mas é interceptado por três crianças da sua idade. O líder exige o doce, ou ele e seus amigos vão espancá-lo e tomá-lo.
+AnswerOne=Jogar o rolinho doce no chão e pisar nele, preparando-se para a briga?
+AnswerTwo=Entregar o rolinho doce sem discutir, sabendo que mais tarde seus amigos estarão com você e poderão cobrar tudo o que ele lhe deve?
+AnswerThree=Fingir que vai entregar o rolinho doce, mas lançá-lo ao ar no último instante, esperando que prestem atenção nele tempo suficiente para você acertar o líder?
+Sound=Vo\Misc\CharGen QA9.wav
+
+[Question 10]
+Question=Ao entrar na cidade, você vê um homem muito bem-vestido correndo de uma multidão. Ele grita pedindo sua ajuda. A multidão atrás dele parece muito zangada.
+AnswerOne=Correr imediatamente para ajudar a multidão, apesar de não conhecer as circunstâncias?
+AnswerTwo=Ficar de lado e deixar o homem e a multidão passarem, concluindo que provavelmente é melhor não se envolver?
+AnswerThree=Correr imediatamente para ajudar o homem, apesar de não conhecer as circunstâncias?
+Sound=Vo\Misc\CharGen QA10.wav

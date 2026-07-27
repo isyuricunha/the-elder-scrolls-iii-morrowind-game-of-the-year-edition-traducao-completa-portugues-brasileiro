@@ -1,0 +1,50 @@
+QUESTIONÁRIO DE CRIAÇÃO DE CLASSE EM PT-BR — OPCIONAL
+
+Este complemento traduz as 10 perguntas e as 30 respostas exibidas durante a criação de personagem.
+
+IMPORTANTE
+
+- O novo Morrowind.esm já corrige o erro de classe ao terminar o questionário.
+- Este complemento serve apenas para traduzir as perguntas e respostas.
+- Quem não quiser instalar pode ignorar esta pasta.
+- O restante do jogo continuará traduzido normalmente.
+
+MORROWIND CLÁSSICO NO WINDOWS
+
+1. Copie a pasta "Morrowind-classico" inteira para a pasta principal do jogo.
+2. A pasta principal é a mesma que contém:
+   - Morrowind.exe
+   - Morrowind.ini
+   - Data Files
+3. Abra a pasta copiada.
+4. Execute "instalar-questionario-classes.bat".
+
+O instalador cria um backup do Morrowind.ini e altera somente as seções [Question 1] até [Question 10].
+
+Se o Windows negar permissão, execute o BAT como administrador.
+
+OPENMW
+
+1. Abra a pasta "OpenMW".
+2. Abra "openmw.cfg.questionario-classes".
+3. Copie todas as linhas iniciadas por "fallback=".
+4. Cole no final do openmw.cfg usado pelo seu OpenMW.
+
+LINUX, MACOS, WINE E PROTON
+
+O instalador BAT foi feito para Windows.
+
+Use:
+- "Morrowind.ini.questionario-classes" para o Morrowind clássico;
+- "openmw.cfg.questionario-classes" para o OpenMW.
+
+RESTAURAÇÃO
+
+O instalador do Morrowind clássico cria um arquivo semelhante a:
+
+Morrowind.ini.backup-20260727-153000
+
+Para restaurar:
+1. Feche o jogo.
+2. Guarde ou renomeie o Morrowind.ini atual.
+3. Renomeie o backup escolhido para Morrowind.ini.
