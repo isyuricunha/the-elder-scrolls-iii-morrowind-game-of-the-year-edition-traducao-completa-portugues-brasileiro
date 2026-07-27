@@ -1,6 +1,6 @@
-# The Elder Scrolls III: Morrowind GOTY — Tradução Completa PT-BR
+# The Elder Scrolls III: Morrowind GOTY - Tradução Completa PT-BR
 
-Tradução completa de **The Elder Scrolls III: Morrowind — Game of the Year Edition** para português brasileiro, incluindo o jogo base e as expansões **Tribunal** e **Bloodmoon**.
+Tradução completa de **The Elder Scrolls III: Morrowind - Game of the Year Edition** para português brasileiro, incluindo o jogo base e as expansões **Tribunal** e **Bloodmoon**.
 
 O pacote principal substitui os três arquivos mestres oficiais:
 
@@ -40,7 +40,7 @@ A pasta `opcional-questionario-classes` contém a tradução das dez perguntas e
 
 ## Requisitos
 
-- **The Elder Scrolls III: Morrowind — Game of the Year Edition**
+- **The Elder Scrolls III: Morrowind - Game of the Year Edition**
 - Expansões **Tribunal** e **Bloodmoon**
 - Um programa para extrair o pacote:
   - ZIP: o próprio Windows consegue extrair.
@@ -104,7 +104,7 @@ Depois da cópia, abra o jogo normalmente. Não é necessário ativar nenhum mod
 
 > **Recomendação:** inicie um novo jogo depois de instalar ou atualizar a tradução.
 
-## Questionário de criação de classe em PT-BR — opcional
+## Questionário de criação de classe em PT-BR - opcional
 
 Durante a criação do personagem, o jogo pode fazer dez perguntas para sugerir uma classe.
 
@@ -281,7 +281,7 @@ pix@yuricunha.com
 
 Obrigado por apoiar traduções de jogos para português brasileiro.
 
-QUESTIONÁRIO DE CRIAÇÃO DE CLASSE EM PT-BR — OPCIONAL
+QUESTIONÁRIO DE CRIAÇÃO DE CLASSE EM PT-BR - OPCIONAL
 
 Este complemento traduz as 10 perguntas e as 30 respostas exibidas durante a criação de personagem.
 
